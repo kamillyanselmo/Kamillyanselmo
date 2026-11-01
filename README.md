@@ -51,7 +51,6 @@ Tem dúvida, ideia de projeto ou quer trocar uma ideia sobre dados? Fale comigo:
 
 ## 📊 Meu GitHub em números
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamillyanselmo&show_icons=true&theme=default" alt="Estatísticas" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamillyanselmo&theme=default" alt="Sequência de contribuições" />
 </p>
 
